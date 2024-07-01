@@ -1,12 +1,12 @@
-Previsão do Tempo em Itapetininga
+#Previsão do Tempo em Itapetininga
 Este repositório contém um projeto simples de frontend e backend para previsão do tempo em Itapetininga, utilizando APIs de clima e clientes.
 
-Visão Geral
+#Visão Geral
 O projeto consiste em dois principais componentes:
 
-Backend: Um servidor simples em Node.js usando Express para servir dados da previsão do tempo.
-Frontend: Um cliente web responsivo que consome os dados do backend e exibe a previsão do tempo.
-Funcionalidades
+#Backend: Um servidor simples em Node.js usando Express para servir dados da previsão do tempo.
+#Frontend: Um cliente web responsivo que consome os dados do backend e exibe a previsão do tempo.
+Funcionalidades:
 Backend:
 
 Endpoint para obter a previsão do tempo em Itapetininga a partir de uma API externa.
@@ -14,7 +14,6 @@ Endpoint para obter dados dos clientes, como cadastro e informações básicas.
 Frontend:
 
 Interface amigável e responsiva para visualizar a previsão do tempo.
-Formulário para cadastro de novos clientes e exibição dos clientes cadastrados.
 Tecnologias Utilizadas
 Backend:
 
@@ -26,7 +25,6 @@ Frontend:
 HTML5
 CSS3 (com layout responsivo)
 JavaScript (ES6+)
-Bootstrap (opcional, para estilização)
 Instalação
 Clone este repositório:
 
@@ -66,7 +64,7 @@ Atualize as configurações de API no arquivo frontend/js/api.js para apontar pa
 Execução
 Backend:
 
-Execute o servidor backend:
+#Execute o servidor backend:
 
 bash
 Copiar código
@@ -74,7 +72,7 @@ cd backend
 npm start
 O servidor será iniciado em http://localhost:3000.
 
-Frontend:
+#Frontend:
 
 Abra o arquivo frontend/index.html em um navegador web.
 O frontend se conectará automaticamente ao backend em http://localhost:3000.
