@@ -1,7 +1,7 @@
 # Meu Clima - Projeto de Previsão do Tempo
 
 Este é um projeto de website de previsão do tempo para a cidade de Itapetininga, SP. O site consome dados de uma API externa para fornecer previsões diárias e semanais. Pré-requisitos:
-Antes de começar, certifique-se de ter o seguinte instalado na sua máquina: Node.js (versão X.X.X) npm (Node Package Manager) ou yarn
+Antes de começar, certifique-se de ter o seguinte instalado na sua máquina: Node.js (versão 18.7.1) npm (Node Package Manager) ou yarn
 
 # Passo a Passo para Rodar o Projeto:
 
